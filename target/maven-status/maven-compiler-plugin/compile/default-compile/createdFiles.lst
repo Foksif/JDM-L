@@ -1,6 +1,8 @@
 org\fworlds\jdmlink\spigot_listeners\ChatListener.class
+org\fworlds\jdmlink\spigot_listeners\PlayerDeath.class
 org\fworlds\jdmlink\spigot_listeners\PlayerLeave.class
 org\fworlds\jdmlink\spigot_listeners\PlayerJoin.class
 org\fworlds\jdmlink\commands\CommandManager.class
+org\fworlds\jdmlink\commands\ConsoleSend.class
 org\fworlds\jdmlink\Jdm_link.class
 org\fworlds\jdmlink\jda_listeners\MessageListener.class
